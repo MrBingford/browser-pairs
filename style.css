@@ -99,7 +99,7 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://bahamasbahamasbahamas.com/wp-content/uploads/2011/10/Beautiful_Dolphins_at_Bahamas.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
+.fx {background: url(http://www.google.com/search?hl=en&site=imghp&tbm=isch&source=hp&biw=1440&bih=703&q=dolphins&oq=dolphins&gs_l=img.3..0l10.47466.53942.0.59860.8.8.0.0.0.0.62.399.8.8.0.ernk_timediscounta..0.0...1.1.2.img.DATUU_5J_iE#hl=en&tbo=d&site=imghp&tbm=isch&sa=1&q=pink+dolphins&oq=pink+dolphins&gs_l=img.3..0l10.256906.269408.0.272399.20.20.0.0.0.1.112.1098.19j1.20.0.ernk_timediscounta..0.0...1.1.2.img.f8mNMU7vWzE&bav=on.2,or.r_gc.r_pw.r_qf.&bvm=bv.42080656,d.cGE&fp=54e721cd8b32d0c8&biw=1440&bih=703&imgrc=uim6CNa2Q4CUFM%3A%3BpI66nan_IjOU3M%3Bhttp%253A%252F%252F1.bp.blogspot.com%252F_PegB6otx91w%252FTFyG1t4cvmI%252FAAAAAAAAAKk%252FPJX_lXnV6ig%252Fs1600%252Fpink_dolphin.png%3Bhttp%253A%252F%252Fwww.imvu.com%252Fgroups%252Fgroup%252FPink%25252BDolphin%25252BCheerleading%252F%3B1381%3B1159) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
